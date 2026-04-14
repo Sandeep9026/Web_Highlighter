@@ -1,6 +1,6 @@
-# **ContextMemo — Persistent Web Highlighter & Notes Extension**
+# **Web_Highlighter — Persistent Web Highlighter & Notes Extension**
 
-ContextMemo is a powerful Chrome extension that allows users to highlight text on any webpage, attach notes, and automatically restore those highlights across reloads and navigation. Built with reliability and cross-website compatibility in mind, it provides a seamless and consistent annotation experience for developers, researchers, and everyday users.
+web Highlighter is a powerful Chrome extension that allows users to highlight text on any webpage, attach notes, and automatically restore those highlights across reloads and navigation. Built with reliability and cross-website compatibility in mind, it provides a seamless and consistent annotation experience for developers, researchers, and everyday users.
 
 ---
 
@@ -234,7 +234,7 @@ Contributions and suggestions are welcome. You can help improve:
 
 # 🙌 **Final Notes**
 
-ContextMemo prioritizes reliability and simplicity.
+web_Highlighter prioritizes reliability and simplicity.
 Highlight → Write → Save → Revisit — anytime, on any website.
 
 ---
